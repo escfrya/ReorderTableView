@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPad Igor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovedCell/ReorderTableView.cs">
+    <Files>
+      <File FileName="MovedCell/AppDelegate.cs" Line="22" Column="23" />
+      <File FileName="MovedCell/MovedCellViewController.cs" Line="39" Column="4" />
+      <File FileName="MovedCell/Main.cs" Line="19" Column="2" />
+      <File FileName="MovedCell/TableSource.cs" Line="10" Column="53" />
+      <File FileName="MovedCell/ReorderTableView.cs" Line="19" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
